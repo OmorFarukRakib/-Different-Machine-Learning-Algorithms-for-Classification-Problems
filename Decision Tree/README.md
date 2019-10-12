@@ -11,6 +11,6 @@ If we demonstrate our approach, the following tree is generated.
 
 ![](/Decision%20Tree/tree_plot.png)
 
-And we got a decent accuracy of 86.4 %
+And we got a decent accuracy of 87.4 %
  
 
