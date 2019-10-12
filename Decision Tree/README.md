@@ -3,5 +3,7 @@ First to understand the basic of decision tree, I strongly suggest you to go thr
 https://www.geeksforgeeks.org/decision-tree-introduction-example/
 
 Once have a clear concept then one can go through the "Decision Tree.ipynb" code file for understanding how the code works.
+
+![](/Decision%20Tree/tree_plot.png)
  
 
