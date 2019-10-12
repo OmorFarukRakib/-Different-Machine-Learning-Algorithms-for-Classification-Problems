@@ -9,7 +9,7 @@ The dataset.csv is a dataset collected from kaggle.com and basically a dataset w
 
 If we demonstrate our approach, the following tree is generated.  
 
-![](/Decision%20Tree/tree_plot.png)
+
 
 And we got a decent accuracy of 87.4 %
  
